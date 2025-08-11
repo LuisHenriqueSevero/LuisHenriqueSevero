@@ -42,8 +42,8 @@ Também tenho experiência com projetos envolvendo **automação com microcontro
 ### 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisHenriqueSevero&show_icons=true&theme=radical&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriqueSevero&layout=compact&theme=radical&langs_count=8" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisHenriqueSevero&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriqueSevero&layout=compact&theme=radical&langs_count=8&count_private=true" height="165">
 </p>
 
 ---
@@ -52,6 +52,8 @@ Também tenho experiência com projetos envolvendo **automação com microcontro
 
 [![LinkedIn](https://img.shields.io/badge/-Luis%20Henrique%20Severo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-username-aqui/)
 [![Gmail](https://img.shields.io/badge/-luishenriquesevero@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luishenriquesevero@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551997414805)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luis.serwazi)
 
 ---
 
