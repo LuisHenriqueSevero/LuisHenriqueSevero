@@ -33,22 +33,17 @@ Também tenho experiência com projetos envolvendo **automação com microcontro
 
 ### 📌 Projetos em Destaque
 
-- 🔐 [Backend-Teste-Duett](https://github.com/LuisHenriqueSevero/Backend-Teste-Duett)  
-  API completa com autenticação JWT usando Java + Spring Boot
-
-- 🖥️ [Frontend-Teste-Duett](https://github.com/LuisHenriqueSevero/Frontend-Teste-Duett)  
-  Interface em React consumindo API segura com boas práticas
-
-- 🛒 [Eccomerce-Spring-React](https://github.com/LuisHenriqueSevero/Ecommerce-Spring-React)                             
-  API completa com autenticação JWY usando Java + Spring Boot. Interface em React consumindo a API.
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisHenriqueSevero&repo=Backend-Teste-Duett&theme=radical)](https://github.com/LuisHenriqueSevero/Backend-Teste-Duett)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisHenriqueSevero&repo=Frontend-Teste-Duett&theme=radical)](https://github.com/LuisHenriqueSevero/Frontend-Teste-Duett)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisHenriqueSevero&repo=Ecommerce-Spring-React&theme=radical)](https://github.com/LuisHenriqueSevero/Ecommerce-Spring-React)
 
 ---
 
 ### 📈 Estatísticas
 
 <p align="center">
-  ![Luis Henrique’s GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisHenriqueSevero&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriqueSevero&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisHenriqueSevero&show_icons=true&theme=radical&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriqueSevero&layout=compact&theme=radical&langs_count=8" height="165">
 </p>
 
 ---
