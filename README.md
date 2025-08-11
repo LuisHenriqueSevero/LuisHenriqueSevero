@@ -44,7 +44,7 @@ Também tenho experiência com projetos envolvendo **automação com microcontro
   Interface em React consumindo API segura com boas práticas
 
 - 🛒 [Eccomerce-Spring-React](https://github.com/LuisHenriqueSevero/Ecommerce-Spring-React)                             
-  API completa com autenticação JWY usando Java = Spring Boot. Interface em React consumindo a API.
+  API completa com autenticação JWY usando Java + Spring Boot. Interface em React consumindo a API.
 
 ---
 
