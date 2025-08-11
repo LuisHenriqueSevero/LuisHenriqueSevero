@@ -47,8 +47,8 @@ Também tenho experiência com projetos envolvendo **automação com microcontro
 ### 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisHenriqueSevero&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriqueSevero&layout=compact&theme=radical" height="165">
+  ![Luis Henrique’s GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisHenriqueSevero&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriqueSevero&theme=radical)
 </p>
 
 ---
