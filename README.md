@@ -33,14 +33,9 @@ Também tenho experiência com projetos envolvendo **automação com microcontro
 
 ### 📌 Projetos em Destaque
 
-- 🔐 [Backend-Teste-Duett](https://github.com/LuisHenriqueSevero/Backend-Teste-Duett)  
-  API completa com autenticação JWT usando Java + Spring Boot
-
-- 🖥️ [Frontend-Teste-Duett](https://github.com/LuisHenriqueSevero/Frontend-Teste-Duett)  
-  Interface em React consumindo API segura com boas práticas
-
-- 🛒 [Eccomerce-Spring-React](https://github.com/LuisHenriqueSevero/Ecommerce-Spring-React)                             
-  API completa com autenticação JWT usando Java + Spring Boot. Interface em React consumindo a API.
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisHenriqueSevero&repo=Backend-Teste-Duett&theme=radical)](https://github.com/LuisHenriqueSevero/Backend-Teste-Duett)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisHenriqueSevero&repo=Frontend-Teste-Duett&theme=radical)](https://github.com/LuisHenriqueSevero/Frontend-Teste-Duett)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisHenriqueSevero&repo=Ecommerce-Spring-React&theme=radical)](https://github.com/LuisHenriqueSevero/Ecommerce-Spring-React)
 
 ---
 
@@ -48,7 +43,7 @@ Também tenho experiência com projetos envolvendo **automação com microcontro
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuisHenriqueSevero&show_icons=true&theme=radical&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriqueSevero&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenriqueSevero&layout=compact&theme=radical&langs_count=8&count_private=true" height="165">
 </p>
 
 ---
@@ -57,8 +52,8 @@ Também tenho experiência com projetos envolvendo **automação com microcontro
 
 [![LinkedIn](https://img.shields.io/badge/-Luis%20Henrique%20Severo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-username-aqui/)
 [![Gmail](https://img.shields.io/badge/-luishenriquesevero@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luishenriquesevero@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551997414805)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luis.serwazi)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551997414805)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luis.serwazi)
 
 ---
 
