@@ -43,7 +43,7 @@ Também tenho experiência com projetos envolvendo **automação com microcontro
 - 🖥️ [Frontend-Teste-Duett](https://github.com/LuisHenriqueSevero/Frontend-Teste-Duett)  
   Interface em React consumindo API segura com boas práticas
 
-- 🛒 [Eccomerce-Spring-React](https://github.com/LuisHenriqueSevero/Ecommerce-Spring-React)
+- 🛒 [Eccomerce-Spring-React](https://github.com/LuisHenriqueSevero/Ecommerce-Spring-React)                             
   API completa com autenticação JWY usando Java = Spring Boot. Interface em React consumindo a API.
 
 ---
