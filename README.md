@@ -3,10 +3,6 @@
   <i>Desenvolvedor Full Stack • Java | Spring Boot | React | Python | C# • Soluções reais e escaláveis</i>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&multiline=true&width=700&lines=Sou+apaixonado+por+tecnologia+e+desenvolvimento+de+software.;Atuo+com+Java%2C+Spring+Boot%2C+React+e+mais!;Buscando+soluções+reais%2C+limpas+e+escaláveis." alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🚀 Sobre mim
