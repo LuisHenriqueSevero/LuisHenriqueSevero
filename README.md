@@ -35,7 +35,6 @@ Também tenho experiência com projetos envolvendo **automação com microcontro
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisHenriqueSevero&repo=Backend-Teste-Duett&theme=radical)](https://github.com/LuisHenriqueSevero/Backend-Teste-Duett)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisHenriqueSevero&repo=Frontend-Teste-Duett&theme=radical)](https://github.com/LuisHenriqueSevero/Frontend-Teste-Duett)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisHenriqueSevero&repo=Ecommerce-Spring-React&theme=radical)](https://github.com/LuisHenriqueSevero/Ecommerce-Spring-React)
 
 ---
 
