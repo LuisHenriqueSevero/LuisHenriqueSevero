@@ -1,44 +1,91 @@
-<h1 align="center">👋 Olá! Eu sou o Luis Henrique Severo da Silva</h1>
+<h1 align="center">👋 Olá! Eu sou o Luis Henrique Winckelmann</h1>
+
 <p align="center">
-  <i>Desenvolvedor Full Stack • Java | Spring Boot | React | Python | C# • Soluções reais e escaláveis</i>
+  <strong>Desenvolvedor Full Stack</strong><br/>
+  Java • Spring Boot • React • Python • C#<br/>
+  <i>Focado em construir soluções reais, escaláveis e orientadas a negócio</i>
 </p>
 
 ---
 
-### 🚀 Sobre mim
+## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software com experiência prática no desenvolvimento de aplicações web completas, atuando com **Java + Spring Boot** no backend e **React.js** no frontend.
+Sou estudante de Engenharia de Software com experiência prática no desenvolvimento de aplicações full stack.
 
-Recentemente participei do processo seletivo da **Duett**, onde desenvolvi uma aplicação full stack com autenticação JWT, API REST documentada com Swagger e integração com banco de dados. No frontend, utilizei React para criar uma interface funcional e conectada ao backend de forma segura.
+Atuo principalmente com:
 
-Também tenho experiência com projetos envolvendo **automação com microcontroladores** (como Raspberry Pi), desenvolvimento mobile com **.NET MAUI** e **Blazor Hybrid**, e boas práticas como versionamento, clean code, testes e deploy.
+- **Backend:** Java + Spring Boot (APIs REST, autenticação JWT, arquitetura em camadas)
+- **Frontend:** React.js e TypeScript (interfaces modernas, consumo de APIs, organização por componentes)
+- **Banco de dados:** MySQL e PostgreSQL
 
----
+Recentemente desenvolvi uma aplicação completa durante um processo seletivo da **Duett** aonde trabalho atualmente e esse projeto incluia:
 
-### 🧠 Tecnologias & Ferramentas
+- Autenticação com JWT
+- Documentação com Swagger
+- API REST estruturada
+- Integração completa frontend ↔ backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+Além disso, tenho experiência com:
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📌 Projetos em Destaque
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisHenriqueSevero&repo=Backend-Teste-Duett&theme=radical)](https://github.com/LuisHenriqueSevero/Backend-Teste-Duett)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LuisHenriqueSevero&repo=Frontend-Teste-Duett&theme=radical)](https://github.com/LuisHenriqueSevero/Frontend-Teste-Duett)
+- Automação com **Raspberry Pi**
+- Desenvolvimento mobile com **.NET MAUI** e **Blazor Hybrid**
+- Versionamento com Git
+- Boas práticas (Clean Code, organização de projetos, testes e deploy)
+- Desenvolvimento legado com **JSF**, **JSP** e **Java 8**
 
 ---
 
-### 📈 Estatísticas
+## 🧠 Stack Tecnológica
+
+### Backend
+- Java
+- Spring Boot
+- Node.js
+
+### Frontend
+- React.js
+- TypeScript
+- TailwindCSS
+- Next.Js
+
+### Mobile & Outros
+- C#
+- .NET MAUI
+- Blazor Hybrid
+- Python
+
+### Banco de Dados
+- MySQL
+- PostgreSQL
+
+### Ferramentas
+- Git & GitHub
+- Swagger
+- Vercel
+- Vps
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🔹 Backend - Teste Duett
+API REST com autenticação JWT, documentação Swagger e estrutura profissional.
+
+👉 https://github.com/LuisHenriqueSevero/Backend-Teste-Duett
+
+### 🔹 Frontend - Teste Duett
+Interface em React consumindo API com fluxo completo de autenticação.
+
+👉 https://github.com/LuisHenriqueSevero/Frontend-Teste-Duett
+
+### 🔹 Portfólio
+Apresentação dos meus projetos e tecnologias.
+
+👉 https://portifolio-luis-winckelmannr6.vercel.app/pt
+
+---
+
+## 📈 Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuisHenriqueSevero&show_icons=true&theme=radical&count_private=true" height="165">
@@ -47,13 +94,26 @@ Também tenho experiência com projetos envolvendo **automação com microcontro
 
 ---
 
-### 🤝 Conecte-se comigo
+## 🎯 Foco Atual
 
-[![LinkedIn](https://img.shields.io/badge/-Luis%20Henrique%20Severo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-username-aqui/)
-[![Gmail](https://img.shields.io/badge/-luishenriquesevero@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luishenriquesevero@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551997414805)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luis.serwazi)
+Atualmente estou focado em evoluir em:
+
+- Arquitetura de sistemas (Clean Architecture, DDD)
+- Escalabilidade de aplicações backend
+- Integrações com APIs externas
+- Construção de produtos reais (SaaS / sistemas administrativos)
 
 ---
 
-<p align="center">✨ Sempre em busca de escrever código limpo, útil e com propósito. ✨</p>
+## 🤝 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/luis-henrique-severo-da-silva-67a154379/
+- 📧 Email: luisseverodasilva17@gmail.com
+- 📱 WhatsApp: https://wa.me/5551997414805
+- 📸 Instagram: https://www.instagram.com/luis.winckelmann
+
+---
+
+<p align="center">
+  ⚡ Código limpo, bem estruturado e com propósito.
+</p>
